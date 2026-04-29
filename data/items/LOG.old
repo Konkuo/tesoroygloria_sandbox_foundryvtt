@@ -1,0 +1,8 @@
+2026/04/29-11:12:26.483 2cb4 Recovering log #12
+2026/04/29-11:12:26.525 2cb4 Delete type=0 #12
+2026/04/29-11:12:26.525 2cb4 Delete type=3 #10
+2026/04/29-11:14:44.646 4c20 Level-0 table #17: started
+2026/04/29-11:14:44.646 4c20 Level-0 table #17: 0 bytes OK
+2026/04/29-11:14:44.668 4c20 Delete type=0 #15
+2026/04/29-11:14:44.712 4c20 Manual compaction at level-0 from '!items!001gP3eo6OC1HOl0' @ 72057594037927935 : 1 .. '!items!zc8XPBr1ktfxW77B' @ 0 : 0; will stop at (end)
+2026/04/29-11:14:44.713 4c20 Manual compaction at level-1 from '!items!001gP3eo6OC1HOl0' @ 72057594037927935 : 1 .. '!items!zc8XPBr1ktfxW77B' @ 0 : 0; will stop at (end)

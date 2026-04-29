@@ -1,0 +1,22 @@
+{
+  "title": "Tesoro y Gloria",
+  "url": "https://github.com/Konkuo/foundry-tesoroygloria",
+  "version": "1.0.0",
+  "system": "sandbox",
+  "manifest": "https://raw.githubusercontent.com/Konkuo/foundry-tesoroygloria/main/world.json",
+  "download": "https://github.com/Konkuo/foundry-tesoroygloria/archive/main.zip",
+  "background": "worlds/tesoroygloria/resources/FondoTyG.jpg",
+  "coreVersion": "13.351",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "0.16.3",
+  "id": "tesoroygloria",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13.351"
+  },
+  "lastPlayed": "Wed Apr 29 2026 13:27:07 GMT+0200 (hora de verano de Europa central)",
+  "playtime": 232,
+  "description": "",
+  "flags": {}
+}
